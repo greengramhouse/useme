@@ -15,5 +15,5 @@ window.APP_CONFIG = {
    * URL ของ Apps Script Web App (ลงท้ายด้วย /exec) — ได้มาหลังกด Deploy ใน Apps Script
    * ดูขั้นตอนใน README.md ข้อ 2
    */
-  GAS_URL: "",
+  GAS_URL: "https://script.google.com/macros/s/AKfycbxjtjHEz2dQlT1EyiTiEg3AM9QuaNxatIV0bQcFWHtpB9yhopnBEs4aBS_lnzmaqLUS/exec",
 };
